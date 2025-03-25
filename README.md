@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, Mayank Varshney this side ✨✨<br>A BCA student at Jaypee Institute Of Information Technology Noida,Noida<br>#Full Stack Developer<br>#DSA Enthusiastic<br>#SQL Developer<br>#Video Editor<br>Here is the link for my CP profiles<br>GfG Profile : https://www.geeksforgeeks.org/user/mayankwng4/<br>Leetcode Profile : https://leetcode.com/u/Mayank_varshney123/
+## Hi, Mayank Varshney this side ✨✨<br>A BCA student at Jaypee Institute Of Information Technology,Noida<br>#Full Stack Developer<br>#DSA Enthusiastic<br>#SQL Developer<br>#Video Editor<br>Here is the link for my CP profiles<br>GfG Profile : https://www.geeksforgeeks.org/user/mayankwng4/<br>Leetcode Profile : https://leetcode.com/u/Mayank_varshney123/
 
 
 ## 🌐 Socials:
